@@ -1,0 +1,148 @@
+servicio_id,fecha_ingreso,fecha_salida,cliente,equipo,tipo_equipo,falla_reportada,tecnico,estado,costo_repuestos_usd,costo_mano_obra_usd,facturacion_total_usd,tiempo_resolucion_dias
+5091,2025-01-09,2025-01-14,Astilleros Navales S.A.,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,762.68,371.94,1134.62,5.0
+5096,2025-01-11,2025-01-20,Metalúrgica del Sur,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,878.11,656.42,1534.53,9.0
+5019,2025-01-11,2025-01-22,Astilleros Navales S.A.,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,374.17,165.62,539.79,11.0
+5051,2025-01-12,2025-01-20,Metalúrgica del Sur,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Listo para Entrega,153.72,128.46,0.0,8.0
+5072,2025-01-15,2025-01-21,Constructora Omega,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,565.3,179.01,744.31,6.0
+5092,2025-01-15,2025-01-31,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),Entregado,417.78,403.28,821.06,16.0
+5038,2025-01-15,2025-01-24,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,144.97,186.3,331.27,9.0
+5013,2025-01-22,Pendiente,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Presupuestado,596.78,312.38,0.0,
+5022,2025-01-23,2025-01-27,Metalúrgica del Sur,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,275.84,313.11,588.95,4.0
+5119,2025-01-25,Pendiente,Taller Metalmecánico Pérez,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Presupuestado,103.29,325.3,0.0,
+5071,2025-02-09,2025-02-25,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,673.47,500.2,1173.67,16.0
+5027,2025-02-10,Pendiente,Minería del Norte,Soldador Miller Trailblazer 325,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),En Reparación,297.43,297.92,0.0,
+5059,2025-02-11,Pendiente,Astilleros Navales S.A.,Inversor TIG ESAB Rogue,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),En Reparación,610.51,293.38,0.0,
+5089,2025-02-13,Pendiente,Astilleros Navales S.A.,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Presupuestado,858.43,554.62,0.0,
+5021,2025-02-20,2025-03-01,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,288.9,184.43,473.33,9.0
+5120,2025-02-23,2025-02-26,Minería del Norte,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,616.87,382.97,999.84,3.0
+5139,2025-02-23,2025-02-25,Astilleros Navales S.A.,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Entregado,521.77,325.31,847.0799999999999,2.0
+5018,2025-03-03,2025-03-07,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,640.36,363.04,1003.4000000000001,4.0
+5070,2025-03-06,2025-03-14,Minería del Norte,Inversor TIG ESAB Rogue,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,669.18,196.39,865.5699999999999,8.0
+5083,2025-03-06,2025-03-14,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Entregado,129.51,204.42,333.92999999999995,8.0
+5058,2025-03-08,Pendiente,Minería del Norte,Inversor TIG ESAB Rogue,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),En Reparación,201.4,230.07,0.0,
+5099,2025-03-18,2025-03-23,Metalúrgica del Sur,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,508.66,375.54,884.2,5.0
+5047,2025-03-24,2025-03-31,Taller Metalmecánico Pérez,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,147.71,219.72,367.43,7.0
+5062,2025-03-28,2025-04-01,Minería del Norte,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,91.23,266.8,358.03000000000003,4.0
+5123,2025-04-07,2025-04-13,Minería del Norte,Compresor de Tornillo Atlas Copco,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),Entregado,836.63,229.48,1066.11,6.0
+5045,2025-04-08,Pendiente,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Presupuestado,503.27,164.04,0.0,
+5032,2025-04-08,2025-04-15,Constructora Omega,Soldador Miller Trailblazer 325,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),Entregado,396.75,347.33,744.0799999999999,7.0
+5004,2025-04-10,2025-04-22,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,400.18,421.34,821.52,12.0
+5136,2025-04-17,2025-04-25,Astilleros Navales S.A.,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Entregado,234.49,180.91,415.4,8.0
+5001,2025-04-21,2025-04-26,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,407.54,236.2,643.74,5.0
+5026,2025-04-26,2025-05-03,Taller Metalmecánico Pérez,Soldador Miller Trailblazer 325,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Entregado,311.33,444.77,756.0999999999999,7.0
+5029,2025-04-30,2025-05-05,Taller Metalmecánico Pérez,Soldador Miller Trailblazer 325,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Entregado,425.76,231.55,657.31,5.0
+5124,2025-05-02,2025-05-17,Minería del Norte,Compresor de Tornillo Atlas Copco,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,793.57,573.68,1367.25,15.0
+5082,2025-05-05,2025-05-21,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,417.25,478.51,895.76,16.0
+5017,2025-05-06,2025-05-09,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,660.37,185.19,845.56,3.0
+5074,2025-05-10,2025-05-21,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,409.16,297.81,706.97,11.0
+5002,2025-05-17,2025-06-03,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,539.83,442.71,982.54,17.0
+5108,2025-05-21,2025-05-29,Minería del Norte,Motocompresor Kaeser M50,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),Entregado,646.71,232.8,879.51,8.0
+5142,2025-06-01,2025-06-05,Metalúrgica del Sur,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Listo para Entrega,453.38,357.74,0.0,4.0
+5126,2025-06-02,2025-06-05,Metalúrgica del Sur,Compresor de Tornillo Atlas Copco,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),Entregado,873.47,235.93,1109.4,3.0
+5081,2025-06-04,2025-06-14,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,574.92,524.1,1099.02,10.0
+5067,2025-06-09,2025-06-12,Constructora Omega,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,394.35,377.0,771.35,3.0
+5130,2025-06-13,Pendiente,Constructora Omega,Compresor de Tornillo Atlas Copco,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),En Reparación,123.29,223.63,0.0,
+5024,2025-06-13,Pendiente,Taller Metalmecánico Pérez,Soldador Miller Trailblazer 325,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),En Reparación,577.1,454.78,0.0,
+5093,2025-06-23,2025-06-29,Constructora Omega,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,440.71,475.86,916.5699999999999,6.0
+5023,2025-07-12,Pendiente,Minería del Norte,Soldador Miller Trailblazer 325,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),En Reparación,805.06,465.93,0.0,
+5069,2025-07-12,2025-07-23,Constructora Omega,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,111.14,336.4,447.53999999999996,11.0
+5107,2025-07-12,2025-07-30,Constructora Omega,Motocompresor Kaeser M50,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),Listo para Entrega,459.84,559.66,0.0,18.0
+5140,2025-07-17,2025-08-01,Metalúrgica del Sur,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Entregado,524.61,277.93,802.54,15.0
+5109,2025-07-20,2025-07-23,Taller Metalmecánico Pérez,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,240.26,398.03,638.29,3.0
+5102,2025-07-21,2025-08-03,Minería del Norte,Motocompresor Kaeser M50,Motocompresor,Válvula de seguridad rota,Mec. L. Herrera (Motores),Listo para Entrega,437.17,305.43,0.0,13.0
+5138,2025-07-22,2025-07-26,Astilleros Navales S.A.,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,539.57,173.76,713.33,4.0
+5122,2025-07-23,2025-07-30,Taller Metalmecánico Pérez,Compresor de Tornillo Atlas Copco,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),Entregado,828.74,537.11,1365.85,7.0
+5125,2025-07-24,Pendiente,Taller Metalmecánico Pérez,Compresor de Tornillo Atlas Copco,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),En Reparación,301.32,302.62,0.0,
+5118,2025-07-25,2025-07-28,Astilleros Navales S.A.,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,585.38,197.1,782.48,3.0
+5050,2025-08-04,Pendiente,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),En Reparación,411.5,263.82,0.0,
+5052,2025-08-04,2025-08-09,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,297.65,339.66,637.31,5.0
+5036,2025-08-04,2025-08-15,Minería del Norte,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,237.2,200.37,437.57,11.0
+5040,2025-08-11,2025-08-16,Taller Metalmecánico Pérez,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,158.19,321.33,479.52,5.0
+5068,2025-08-12,2025-08-18,Minería del Norte,Inversor TIG ESAB Rogue,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,243.34,338.73,582.07,6.0
+5011,2025-08-18,2025-08-21,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,447.45,432.46,879.91,3.0
+5105,2025-08-29,2025-09-06,Taller Metalmecánico Pérez,Motocompresor Kaeser M50,Motocompresor,Válvula de seguridad rota,Mec. L. Herrera (Motores),Entregado,630.68,461.38,1092.06,8.0
+5034,2025-09-08,2025-09-22,Metalúrgica del Sur,Soldador Miller Trailblazer 325,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,460.59,461.3,921.89,14.0
+5015,2025-09-11,2025-09-15,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,636.68,350.32,987.0,4.0
+5073,2025-09-16,Pendiente,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),En Reparación,896.17,289.44,0.0,
+5057,2025-09-17,2025-09-22,Constructora Omega,Inversor TIG ESAB Rogue,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,306.98,315.96,622.94,5.0
+5100,2025-09-20,2025-09-27,Taller Metalmecánico Pérez,Motocompresor Kaeser M50,Motocompresor,Válvula de seguridad rota,Mec. L. Herrera (Motores),Entregado,640.14,652.32,1292.46,7.0
+5143,2025-09-29,2025-10-09,Constructora Omega,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Entregado,177.83,102.78,280.61,10.0
+5065,2025-09-30,2025-10-11,Taller Metalmecánico Pérez,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,100.41,179.71,280.12,11.0
+5006,2025-10-01,2025-10-09,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,133.29,153.94,287.23,8.0
+5075,2025-10-03,2025-10-07,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,825.76,192.34,1018.1,4.0
+5117,2025-10-05,2025-10-12,Minería del Norte,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,433.37,175.14,608.51,7.0
+5146,2025-10-11,2025-10-16,Minería del Norte,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,187.9,182.23,370.13,5.0
+5128,2025-10-14,2025-10-19,Metalúrgica del Sur,Compresor de Tornillo Atlas Copco,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),Entregado,796.5,401.68,1198.18,5.0
+5129,2025-10-17,Pendiente,Metalúrgica del Sur,Compresor de Tornillo Atlas Copco,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),En Reparación,835.75,616.75,0.0,
+5145,2025-10-19,2025-10-25,Taller Metalmecánico Pérez,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,311.67,284.74,596.4100000000001,6.0
+5043,2025-10-20,Pendiente,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Presupuestado,434.7,113.72,0.0,
+5116,2025-10-22,Pendiente,Constructora Omega,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Presupuestado,622.05,234.22,0.0,
+5041,2025-11-12,2025-11-15,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,428.65,171.68,600.3299999999999,3.0
+5054,2025-11-12,2025-11-15,Taller Metalmecánico Pérez,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,242.85,105.55,348.4,3.0
+5110,2025-11-19,2025-11-22,Minería del Norte,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,283.19,329.09,612.28,3.0
+5048,2025-11-21,2025-11-27,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Entregado,388.96,312.61,701.5699999999999,6.0
+5042,2025-11-26,2025-11-29,Taller Metalmecánico Pérez,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Listo para Entrega,444.62,332.43,0.0,3.0
+5000,2025-12-04,2025-12-09,Metalúrgica del Sur,Inversor Lincoln Electric 250,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,248.61,310.46,559.0699999999999,5.0
+5063,2025-12-05,2025-12-10,Constructora Omega,Inversor TIG ESAB Rogue,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Listo para Entrega,553.9,279.68,0.0,5.0
+5003,2025-12-10,2025-12-19,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,104.09,165.5,269.59000000000003,9.0
+5144,2025-12-14,Pendiente,Taller Metalmecánico Pérez,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Presupuestado,131.22,288.47,0.0,
+5025,2025-12-25,Pendiente,Constructora Omega,Soldador Miller Trailblazer 325,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),En Reparación,798.07,199.1,0.0,
+5098,2025-12-25,2026-01-11,Constructora Omega,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,482.34,319.99,802.3299999999999,17.0
+5056,2025-12-31,Pendiente,Minería del Norte,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Presupuestado,469.82,315.92,0.0,
+5049,2026-01-05,2026-01-07,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Entregado,293.43,245.48,538.91,2.0
+5077,2026-01-06,2026-01-13,Metalúrgica del Sur,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Entregado,607.02,313.38,920.4,7.0
+5016,2026-01-06,2026-01-10,Astilleros Navales S.A.,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),Entregado,377.85,314.61,692.46,4.0
+5088,2026-01-12,2026-01-27,Minería del Norte,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,484.53,566.78,1051.31,15.0
+5030,2026-01-12,2026-01-18,Metalúrgica del Sur,Soldador Miller Trailblazer 325,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,250.61,325.47,576.08,6.0
+5039,2026-01-14,2026-01-18,Constructora Omega,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,512.86,222.14,735.0,4.0
+5008,2026-01-14,2026-01-22,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,324.89,360.79,685.6800000000001,8.0
+5046,2026-01-23,2026-01-27,Metalúrgica del Sur,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,492.34,251.58,743.92,4.0
+5090,2026-01-23,2026-01-27,Constructora Omega,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,144.65,379.0,523.65,4.0
+5076,2026-01-24,2026-02-03,Astilleros Navales S.A.,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),Entregado,113.71,495.66,609.37,10.0
+5121,2026-01-28,2026-02-12,Constructora Omega,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,335.98,299.97,635.95,15.0
+5103,2026-02-03,2026-02-09,Astilleros Navales S.A.,Motocompresor Kaeser M50,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),Entregado,193.67,497.47,691.14,6.0
+5033,2026-02-03,2026-02-16,Metalúrgica del Sur,Soldador Miller Trailblazer 325,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,704.48,479.97,1184.45,13.0
+5113,2026-02-04,2026-02-13,Metalúrgica del Sur,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,124.94,145.21,270.15,9.0
+5127,2026-02-04,Pendiente,Constructora Omega,Compresor de Tornillo Atlas Copco,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),En Reparación,238.1,585.45,0.0,
+5097,2026-02-05,2026-02-10,Astilleros Navales S.A.,Motocompresor Kaeser M50,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),Entregado,882.25,452.13,1334.38,5.0
+5028,2026-02-06,Pendiente,Astilleros Navales S.A.,Soldador Miller Trailblazer 325,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Presupuestado,752.4,543.86,0.0,
+5106,2026-02-06,Pendiente,Astilleros Navales S.A.,Motocompresor Kaeser M50,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),Presupuestado,209.98,216.54,0.0,
+5009,2026-02-07,2026-02-22,Taller Metalmecánico Pérez,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,375.07,165.54,540.61,15.0
+5112,2026-02-10,2026-02-15,Metalúrgica del Sur,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,99.97,322.45,422.41999999999996,5.0
+5115,2026-02-11,2026-02-17,Astilleros Navales S.A.,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,599.64,396.55,996.19,6.0
+5133,2026-02-12,2026-02-22,Metalúrgica del Sur,Compresor de Tornillo Atlas Copco,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,439.65,415.05,854.7,10.0
+5094,2026-02-19,2026-03-01,Minería del Norte,Motocompresor Kaeser M50,Motocompresor,Fuga de aceite en unidad compresora,Mec. L. Herrera (Motores),Entregado,937.74,381.97,1319.71,10.0
+5007,2026-02-24,2026-03-02,Metalúrgica del Sur,Inversor Lincoln Electric 250,Electrónica / Placas,Condensadores reventados,Ing. R. Benítez (Electrónica),Entregado,114.33,408.83,523.16,6.0
+5060,2026-03-01,Pendiente,Metalúrgica del Sur,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),En Reparación,569.43,120.34,0.0,
+5066,2026-03-03,2026-03-07,Constructora Omega,Inversor TIG ESAB Rogue,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Listo para Entrega,341.79,434.47,0.0,4.0
+5086,2026-03-05,2026-03-15,Constructora Omega,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,793.31,187.04,980.3499999999999,10.0
+5064,2026-03-05,Pendiente,Metalúrgica del Sur,Inversor TIG ESAB Rogue,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),En Reparación,236.67,140.92,0.0,
+5131,2026-03-09,Pendiente,Astilleros Navales S.A.,Compresor de Tornillo Atlas Copco,Motocompresor,Pérdida de presión de aire,Mec. L. Herrera (Motores),En Reparación,822.34,475.85,0.0,
+5132,2026-03-10,Pendiente,Astilleros Navales S.A.,Compresor de Tornillo Atlas Copco,Motocompresor,Válvula de seguridad rota,Mec. L. Herrera (Motores),Ingresado,110.85,342.42,0.0,
+5111,2026-03-11,2026-03-18,Taller Metalmecánico Pérez,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,538.45,373.9,912.35,7.0
+5114,2026-03-11,2026-03-15,Metalúrgica del Sur,Soldadora MIG/MAG Kemppi MasterTig,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Listo para Entrega,255.36,316.23,0.0,4.0
+5104,2026-03-11,2026-03-18,Astilleros Navales S.A.,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Entregado,664.11,385.01,1049.12,7.0
+5087,2026-03-12,2026-03-21,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,312.52,485.57,798.0899999999999,9.0
+5135,2026-03-14,Pendiente,Minería del Norte,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),En Reparación,140.84,163.52,0.0,
+5141,2026-03-25,2026-03-27,Constructora Omega,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Electrodo / Boquilla gastados,Tec. J. Castro (Sistemas Neumáticos),Entregado,290.73,230.98,521.71,2.0
+5044,2026-03-28,2026-04-02,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,539.6,100.67,640.27,5.0
+5012,2026-03-28,2026-04-01,Constructora Omega,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,419.31,211.17,630.48,4.0
+5037,2026-03-30,2026-04-02,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,482.16,127.55,609.71,3.0
+5101,2026-04-11,Pendiente,Constructora Omega,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Ingresado,478.25,562.99,0.0,
+5020,2026-04-16,2026-04-20,Metalúrgica del Sur,Inversor Lincoln Electric 250,Electrónica / Placas,Fallo en potenciómetro de amperaje,Ing. R. Benítez (Electrónica),Entregado,112.36,332.43,444.79,4.0
+5134,2026-04-18,2026-04-23,Taller Metalmecánico Pérez,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Arco inestable,Tec. J. Castro (Sistemas Neumáticos),Entregado,368.02,323.64,691.66,5.0
+5061,2026-04-20,2026-04-26,Astilleros Navales S.A.,Inversor TIG ESAB Rogue,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,475.04,229.81,704.85,6.0
+5080,2026-04-20,2026-04-24,Astilleros Navales S.A.,Motosoldadora Lincoln Ranger 305,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,457.66,497.12,954.78,4.0
+5084,2026-05-03,2026-05-08,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla en alternador auxiliar,Mec. L. Herrera (Motores),Entregado,789.61,163.1,952.71,5.0
+5005,2026-05-19,Pendiente,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Placa inversora quemada,Ing. R. Benítez (Electrónica),En Reparación,482.82,355.16,0.0,
+5055,2026-05-19,2026-05-24,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falla en electroválvula de gas,Tec. J. Castro (Sistemas Neumáticos),Entregado,162.88,129.48,292.36,5.0
+5053,2026-05-20,2026-05-23,Metalúrgica del Sur,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,266.69,336.84,603.53,3.0
+5078,2026-05-22,2026-06-04,Minería del Norte,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Listo para Entrega,414.74,589.85,0.0,13.0
+5035,2026-05-27,2026-06-02,Astilleros Navales S.A.,Cortadora Plasma Hypertherm Powermax 45,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,476.33,348.4,824.73,6.0
+5095,2026-06-06,Pendiente,Astilleros Navales S.A.,Motocompresor Kaeser M50,Motocompresor,Rotura de acople de motor,Mec. L. Herrera (Motores),Ingresado,447.33,279.76,0.0,
+5085,2026-06-11,2026-06-17,Taller Metalmecánico Pérez,Motosoldadora Lincoln Ranger 305,Motosoldadora,Falla de arranque eléctrico,Mec. L. Herrera (Motores),Entregado,112.06,584.21,696.27,6.0
+5137,2026-06-21,2026-06-25,Constructora Omega,Equipo Plasma Lincoln Tomahawk 1000,Equipo de Corte,Falta de arco piloto,Tec. J. Castro (Sistemas Neumáticos),Entregado,328.65,225.31,553.96,4.0
+5014,2026-06-24,2026-07-04,Minería del Norte,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,654.36,253.24,907.6,10.0
+5031,2026-06-24,2026-06-28,Minería del Norte,Soldador Miller Trailblazer 325,Motosoldadora,Filtros tapados / Pérdida de potencia,Mec. L. Herrera (Motores),Entregado,858.62,517.53,1376.15,4.0
+5010,2026-06-25,2026-06-27,Taller Metalmecánico Pérez,Inversor Lincoln Electric 250,Electrónica / Placas,Sensor de temperatura defectuoso,Ing. R. Benítez (Electrónica),Entregado,457.37,227.12,684.49,2.0
+5079,2026-06-26,2026-07-06,Astilleros Navales S.A.,Motosoldadora Lincoln Ranger 305,Motosoldadora,Carburador obstruido,Mec. L. Herrera (Motores),Entregado,466.39,227.95,694.3399999999999,10.0
